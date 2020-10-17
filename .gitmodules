@@ -1,0 +1,9 @@
+[submodule "puzzle_keep"]
+	path = puzzle_keep
+	url = https://github.com/hurek/puzzle_keep.git
+[submodule "back_market"]
+	path = back_market
+	url = https://github.com/hurek/back_market.git
+[submodule "keep_submit_bot"]
+	path = keep_submit_bot
+	url = https://github.com/hurek/keep_submit_bot.git
